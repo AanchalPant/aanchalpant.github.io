@@ -1,0 +1,44 @@
+body {
+	background-color:  #70dbdb
+}
+/** HEADER **/
+#header-nav {
+  background-color: #b3cccc;
+  border-radius: 0;
+  border: 0;
+  }
+  .navbar-header h1 {
+  	font-family: font-family: 'Raleway', sans-serif;
+  	color: #334d4d;
+  }
+
+@media (min-width: 1200px) {
+ .food-item{
+    background-color: #fff;
+    border-style: groove;
+    margin: 45px;
+  	display: block;
+ }
+}
+
+
+ .food-item{
+    background-color: #fff;
+    border-style: groove;
+    margin: 40px;
+  	display: block;
+ }
+
+#nav-list li a {
+	align-content: center;
+}
+
+hr#lines {
+	border: 2px solid #00b3b3;
+	width: 80%;
+}
+
+ul#nav-list {
+ font-weight: bold;
+}
+
